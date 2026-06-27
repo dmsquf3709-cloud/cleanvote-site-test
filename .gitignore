@@ -1,0 +1,8 @@
+# 절대 커밋 금지 — 시크릿/토큰/PII
+.netlify/
+.netlify_token
+*.env
+.env*
+*_cache.json
+*.log
+backups/
